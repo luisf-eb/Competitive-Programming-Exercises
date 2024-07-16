@@ -1,3 +1,6 @@
 /Practice-Contests/
 *.pdf
 .vscode/
+*in
+*out
+*output
