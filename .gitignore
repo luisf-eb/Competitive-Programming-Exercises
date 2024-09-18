@@ -1,4 +1,5 @@
 /Practice-Contests/
+/Templates
 *.pdf
 .vscode/
 *in
@@ -6,3 +7,4 @@
 *output
 *.txt
 *.exe
+*input
