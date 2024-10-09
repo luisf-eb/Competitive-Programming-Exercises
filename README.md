@@ -6,6 +6,8 @@ This repository contains solutions to various competitive programming problems t
 
 ## By topic
 
+- [Union Find](/Practice/Union%20find/)
+- [Complete Search](/Practice/Complete%20Search)
 - [Graph](/Practice/Graph/)
   - [All-Pairs Shortest Path (APSP)](/Practice/Graph/All-Pairs%20Shortest%20Path%20(APSP)/)
   - [Articulation Points/Bridges](/Practice/Graph/Articulation%20Points%20and%20Bridges/)
@@ -16,7 +18,3 @@ This repository contains solutions to various competitive programming problems t
   - [Single Source Shortest Path](/Practice/Graph/Single-Source-Shortest-Paths/)
   - [Topological Sort](/Practice/Graph/Topological%20Sort/)
   - [Simple Traversal](/Practice/Graph/Traversal/)
-- [Union Find](/Practice/Union%20find/)
-
-
-
