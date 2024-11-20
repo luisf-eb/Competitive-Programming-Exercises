@@ -9,6 +9,7 @@ This repository contains solutions to various competitive programming problems t
 - [Union Find](/Practice/Union%20find/)
 - [Complete Search](/Practice/Complete%20Search)
 - [Dynamic Programming](Practice/Dynamic%20Programming/)
+- [Divide and Conquer (Binary Search)](/Practice/Divide%20and%20Conquer/Binary%20Search/)
 - [Graph](/Practice/Graph/)
   - [All-Pairs Shortest Path (APSP)](/Practice/Graph/All-Pairs%20Shortest%20Path%20(APSP)/)
   - [Articulation Points/Bridges](/Practice/Graph/Articulation%20Points%20and%20Bridges/)
